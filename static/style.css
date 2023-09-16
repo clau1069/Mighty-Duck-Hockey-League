@@ -100,17 +100,12 @@ header.principal>img{
     align-self: center
 }
 .titulo{
-    background-color: /* darkolivegreen */;
+    
     margin-bottom: 0px;
     font-size: 7vh;
 }
-.subtitulo{
-    background-color: /* darkgoldenrod */;
-}
-.contienelogo{
-    /* background-color: crimson; */
-    
-}
+
+
 .logo{
     width: 7vw;
     margin-bottom: 3vw;
@@ -275,7 +270,7 @@ div.box-dos{
     background-color: aqua;
     width: 70vw;
     height: 60vh;
-    background-image: url(/img/hockey\ \ 2.jpg);
+    background-image: url(img/hockey\ \ 2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     filter: contrast(1.8) brightness(1.5) grayscale(1)
